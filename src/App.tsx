@@ -6,13 +6,14 @@ export default function App() {
       <h1 className="text-sm md:text-base lg:text-xl tracking-tight antialiased text-center px-4">
         <Typewriter
           words={[
-            "luv Jinnie",
-            "3007",
             "i choose u",
+            "luv empe",
             "u feel like home",
+            "love u",
             "miss u everyday",
-            "sunshine in human form",
+            "1209e4",
             "it's always been u",
+            "3007",
             "my peace, my person",
             "i saw u and knew",
             "this love feels rare",
