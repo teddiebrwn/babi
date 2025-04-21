@@ -3,7 +3,7 @@ import { Typewriter } from "react-simple-typewriter";
 export default function App() {
   return (
     <div className="flex items-center justify-center w-screen h-screen overflow-hidden bg-white dark:bg-[#0c0c0c] text-[#1a1a1a] dark:text-[#fafafa] font-sans">
-      <h1 className="text-sm md:text-base lg:text-xl tracking-tight antialiased text-center px-4">
+      <h1 className="px-4 text-sm antialiased tracking-tight text-center md:text-base lg:text-xl">
         <Typewriter
           words={[
             "i choose u",
@@ -25,6 +25,9 @@ export default function App() {
             "ur name in my playlist",
             "forever starts here",
             "it's u, it's always u",
+            "em chờ anh nhé",
+            "anh sẽ cố gắng ",
+            "có được em vào một mai",
           ]}
           loop={true}
           cursor
